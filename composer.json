@@ -1,13 +1,13 @@
 {
-    "name": "tailieuweb/mypackage",
+    "name": "vohongyen/mypackage",
     "description": "mypackage",
     "keywords": [
         "mypackage"
     ],
     "authors": [
         {
-            "name": "foostart",
-            "email": "foostart.com@gmail.com"
+            "name": "vohongyen",
+            "email": "20211TT0290@mail.tdc.edu.vn"
         }
     ],
     "license": "MIT",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tailieuweb\\Mypackage\\": "src/"
+            "VoHongYen\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
